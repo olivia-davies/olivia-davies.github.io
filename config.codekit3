@@ -9,13 +9,15 @@
 	],
 "creatorBuild": "25900",
 "files": {
-	"\/.brackets.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/build\/.brackets-min.json",
+	"\/assets\/hammock.jpg": {
+		"ft": 16384,
+		"iS": 88428,
+		"oA": 0,
+		"oAP": "\/build\/assets\/hammock.jpg",
 		"oF": 0,
-		"oO": 0,
-		"oS": 1
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/build": {
 		"ft": 65536,
@@ -74,10 +76,10 @@
 	},
 "projectAttributes": {
 	"creationDate": 528763625,
-	"displayValue": "stand-alone-portfolio",
+	"displayValue": "olivia-davies.github.io",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-kanye",
-	"lastBuiltDate": 529380212
+	"lastBuiltDate": 529388687
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
