@@ -1,0 +1,39 @@
+
+html {
+    background:#CBE9E5;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.main-content{
+    padding-top: 100px;
+    margin: auto;
+    height: 1000px;
+    
+}
+
+nav {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin: -10px;
+}
+
+nav ul li:first-child {
+    float: left;
+}
+
+nav ul li {
+    margin: 20px;
+    float: right;
+    list-style:none;
+}
+
+
+#BOX {
+    border: 20px solid white;
+    height: 100vh;
+    width: 90%;
+    margin: auto;
+}
+
