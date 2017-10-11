@@ -1,6 +1,9 @@
+/*Essential Page Layout THingahs*/
+
 html {
-    background: #CBE9E5;
     font-family: 'Raleway', sans-serif;
+    background: #CBE9E5;
+
 }
 
 #tytle {
@@ -27,29 +30,59 @@ nav ul li {
     list-style: none;
 }
 
+footer {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    height: 50px;
+    margin: 10px -10px -10px -10px;
+}
+
+footer span {
+    margin: auto;
+    padding-right: 20px;
+    font-size: 12px;
+}
+
+
+
+
+/*Main Content*/
+
 .main-content {
     padding-top: 100px;
     margin: auto;
 }
 
-#BOX {
+#boxd {
     border: 20px solid white;
-    height: 100vh;
     width: 90%;
     margin: auto;
 }
 
 img {
-    text-align: center;
-    opacity: 0.5;
-    height: 300px;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 
-/*LINK STUFF*/
+
+
+
+
+/*Headerings*/
+
+h1 {
+    text-align: center;
+}
+
+
+
+/*LINKz without Zeldas*/
 
 a:link,
-a:active {
+a:active,
+a:visited {
     color: black;
     text-decoration: none;
 }
