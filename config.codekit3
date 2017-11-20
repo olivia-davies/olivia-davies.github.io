@@ -519,6 +519,13 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/index.html",
+		"oF": 0
+		},
 	"\/js\/scripts.js": {
 		"ft": 64,
 		"ma": 0,
@@ -559,13 +566,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/build\/README.txt",
-		"oF": 0
-		},
-	"\/resume.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/resume.html",
 		"oF": 0
 		}
 	},
