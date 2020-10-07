@@ -531,6 +531,17 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/images/profile.jpg": {
+		"ft": 16384,
+		"iS": 85833,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/images/profile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/images/ukugal.jpg": {
 		"ft": 16384,
 		"iS": 52204,
